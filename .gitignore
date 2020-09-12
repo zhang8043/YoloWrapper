@@ -1,0 +1,7 @@
+﻿
+/.vs
+/YoloWrapper/bin
+/YoloWrapper/obj
+/YoloWrapper/Weights/yolov4.weights
+/YoloWrapperConsole/bin
+/YoloWrapperConsole/obj
